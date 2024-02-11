@@ -2,4 +2,4 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LavendersLuv/js-rt1ymh)
 
-![istockphoto-826906834-1024x1024](https://github.com/LavendersLuv/js-rt1ymh/assets/159663767/f23e5cd5-60b8-44f2-bf39-5e61c58403b0)
+![AdobeStock_294085063](https://github.com/LavendersLuv/js-rt1ymh/assets/159663767/56928a21-6687-4303-8a4f-8b5435b546b4)
